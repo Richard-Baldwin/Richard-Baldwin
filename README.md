@@ -17,7 +17,7 @@
 &nbsp;
 [![Stars](https://img.shields.io/github/stars/Richard-Baldwin?style=flat&color=161b22&labelColor=0d1117&logo=github&logoColor=58a6ff&label=stars)](https://github.com/Richard-Baldwin?tab=repositories)
 &nbsp;
-[![Views](https://komarev.com/ghpvc/?username=Richard-Baldwin&color=161b22&style=flat&label=views)](https://github.com/Richard-Baldwin)
+[![Views](https://komarev.com/ghpvc/?username=Richard-Baldwin&color=58a6ff&style=flat&label=views)](https://github.com/Richard-Baldwin)
 
 </div>
 
@@ -40,7 +40,7 @@ class Richard:
 | | Project | Description |
 |:-:|:--------|:------------|
 | ![](https://img.shields.io/github/stars/Richard-Baldwin/PhantomReg?style=flat&label=&color=161b22) | **[PhantomReg](https://github.com/Richard-Baldwin/PhantomReg)** | Windows registry persistence and evasion research |
-| ![](https://img.shields.io/github/stars/Quasar-Continuation/PulsarK?style=flat&label=&color=161b22) | **[Pulsar RAT](https://github.com/Quasar-Continuation/PulsarK)** | Core contributor &mdash; featured in multiple publications |
+| ![](https://img.shields.io/github/stars/Quasar-Continuation/PulsarK?style=flat&label=&color=161b22) | **[Pulsar RAT](https://github.com/Quasar-Continuation/PulsarK)** | Core contributor &mdash; covered by [SonicWall](https://www.sonicwall.com/blog/uncovering-a-recent-pulsar-rat-sample-in-the-wild) and [ThreatMon](https://threatmon.io/understanding-pulsar-rat-a-closer-look-at-a-powerful-remote-access-tool/) |
 | ![](https://img.shields.io/github/stars/Richard-Baldwin/ByteDriverLoader?style=flat&label=&color=161b22) | **[ByteDriverLoader](https://github.com/Richard-Baldwin/ByteDriverLoader)** | Load kernel drivers from byte arrays in memory |
 | ![](https://img.shields.io/github/stars/Richard-Baldwin/Fortnite-Malware-Persistence?style=flat&label=&color=161b22) | **[Fortnite Persistence](https://github.com/Richard-Baldwin/Fortnite-Malware-Persistence)** | WinSock2 AutodialDLL persistence technique analysis |
 
